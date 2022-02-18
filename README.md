@@ -1,6 +1,6 @@
 ### 我是马超 👋
 
-很高兴你能关注我，我从 17 年开始写博客至今，持续原创，输出干货的博主。
+很高兴你能关注我，我从 17 年开始写博客至今，涉及技术栈有`Vue`、`React`、`Typescript`...等相关生态，持续原创，输出干货的博主。
 
 - 个人技术博客：[马超的个人技术博客](https://machao07.github.io/)
 - CSDN博客：[情非得已小猿猿](https://blog.csdn.net/weixin_43924228)
@@ -8,19 +8,3 @@
 - 公众号：[情非得已小猿猿](https://machao07.github.io/img/official_account.jpg)
 - 微信号：[machao1927](https://machao07.github.io/img/wechat.jpg)
 - 设计作品集：[情非得已小猿猿](https://machao07.zcool.com.cn/)
-
-
-<!--
-**machao07/machao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
