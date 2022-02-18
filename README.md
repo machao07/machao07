@@ -1,6 +1,6 @@
 ### 我是马超 👋
 
-很高兴你能关注我，我从 17 年开始写博客至今，涉及技术栈有`Vue全家桶`、`React`、`Typescript`、`ElementUI`、`Ant Design`...等相关生态，持续原创，输出干货的博主。
+很高兴你能关注我，我从 2017 年开始写博客至今，涉及技术栈有`Vue全家桶`、`React`、`Typescript`、`ElementUI`、`Ant Design`...等相关生态，持续原创，输出干货的博主。
 
 - 个人技术博客：[马超的个人技术博客](https://machao07.github.io/)
 - CSDN博客：[情非得已小猿猿](https://blog.csdn.net/weixin_43924228)
