@@ -1,9 +1,9 @@
-### 我是马超 👋
+### 我是马超
 
 <!-- blueviolet yellowgreen success  -->
 <!-- [![掘金](https://img.shields.io/badge/掘金-@情非得已小猿猿-blue)](https://juejin.cn/user/1187128287435517) -->
 
-Hi~ 你好鸭，很高兴你能关注我，我从 2017 年开始写博客至今，欢迎讨论各种[【前端】话题](https://github.com/machao07/interview-questions)，一起成长 :two_men_holding_hands:
+Hi~ 👋 你好鸭，很高兴你能关注我，我从 2017 年开始写博客至今，欢迎讨论各种[【前端话题】](https://github.com/machao07/interview-questions)，一起成长 :two_men_holding_hands:
 
 涉及技术栈有`Vue全家桶`、`React`、`Typescript`、`ElementUI`、`Ant Design`...等相关生态，持续原创，输出干货的博主 :running:
 
