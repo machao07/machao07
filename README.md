@@ -14,10 +14,6 @@ Hi~ 👋 你好鸭，很高兴见到你，我从 2017 年开始写博客至今�
 - 设计作品集：[情非得已小猿猿](https://machao07.zcool.com.cn/)
 - [前端技术栈面试知识点总览 >>](https://github.com/machao07/interview-questions)
 
+<!-- ![machao's GitHub stats](https://github-readme-stats.vercel.app/api?username=machao07&show_icons=true) -->
   
-![machao's GitHub stats](https://github-readme-stats.vercel.app/api?username=machao07&show_icons=true)
-
-    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machao07&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-  
-
