@@ -10,6 +10,7 @@ Hi~ 👋 你好鸭，很高兴见到你，我从 2017 年开始写博客至今�
 - CSDN博客：[情非得已小猿猿](https://blog.csdn.net/weixin_43924228)
 - 掘金：[情非得已小猿猿](https://juejin.cn/user/1337486669527096)
 - 公众号：[情非得已小猿猿](https://machao07.github.io/img/official_account.jpg)
+- 小程序：[前端进阶技术栈](https://gd-hbimg.huaban.com/136c4cae752b6a8b6a5edaffc11efe0270753e79121a9-Dmnuxh)
 - 微信号：[machao1927](https://machao07.github.io/img/wechat.jpg)
 - 设计作品集：[情非得已小猿猿](https://machao07.zcool.com.cn/)
 - [前端技术栈面试知识点总览 >>](https://github.com/machao07/interview-questions)
