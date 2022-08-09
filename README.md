@@ -2,7 +2,7 @@
 
 Hi~ 👋 你好鸭，很高兴见到你，我从 2017 年开始写博客至今，欢迎讨论各种[【前端话题】](https://github.com/machao07/interview-questions)，一起成长 :two_men_holding_hands:
 
-涉及技术栈有`Vue全家桶`、`React`、`Vite`、`Umi`、`Typescript`、`ElementUI`、`Ant Design`、`AntV`...等相关生态，持续原创，输出干货的博主 :running:
+涉及技术栈有`Vue全家桶`、`React全家桶`、`Taro`、`Vite`、`Umi`、`Typescript`、`Taro-UI`、`ElementUI`、`Ant Design`、`Vant`、`ECharts`、`AntV`...等相关生态，持续原创，输出干货的博主 :running:
 
 祝大家天天进步，每天变好，看到不一样的自己！！！白茶清欢无别事，我在等风也等你 :wink: 
 
